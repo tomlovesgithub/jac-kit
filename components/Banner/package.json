@@ -1,11 +1,11 @@
 {
     "name": "@tomlovesgithub/banner",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "publishConfig": {
         "access": "public"
     },
-    "repository" : {
-        "type" : "git",
+    "repository": {
+        "type": "git",
         "url": "ssh://git@github.com:tomlovesgithub/jac-kit.git"
     }
 }
